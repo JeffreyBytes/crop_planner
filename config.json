@@ -844,6 +844,21 @@
 				"name": "Haley"
 			},
 			{
+				"day": 15,
+				"name": "Desert Festival",
+				"festival": true
+			},
+			{
+				"day": 16,
+				"name": "Desert Festival",
+				"festival": true
+			},
+			{
+				"day": 17,
+				"name": "Desert Festival",
+				"festival": true
+			},
+			{
 				"day": 18,
 				"name": "Pam"
 			},
@@ -886,21 +901,6 @@
 			{
 				"day": 13,
 				"name": "Alex"
-			},
-			{
-				"day": 15,
-				"name": "Desert Festival",
-				"festival": true
-			},
-			{
-				"day": 16,
-				"name": "Desert Festival",
-				"festival": true
-			},
-			{
-				"day": 17,
-				"name": "Desert Festival",
-				"festival": true
 			},
 			{
 				"day": 17,
