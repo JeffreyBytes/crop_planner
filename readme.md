@@ -2,7 +2,7 @@
 
 A tool for planning crop schedules in the Stardew Valley game.
 
-#### **<a href="http://exnil.github.io/crop_planner/">Live version on github.io</a>**
+#### **<a href="http://jeffreybytes.github.io/crop_planner/">Live version on github.io</a>**
 
 <a href="https://www.reddit.com/r/StardewValley/comments/55puw1/crop_planner_v2_released_multiple_years_importing/" target="_blank">Reddit thread</a>
 
@@ -25,8 +25,6 @@ A tool for planning crop schedules in the Stardew Valley game.
  * Left/Right arrows = navigate seasons
  * ESC = open/close sidebar (opens to crop info)
  * ~ (tilde) = toggle between outdoor farm/greenhouse
-
-I'll be leaving <a href="http://exnil.github.io/crop_planner/v1/" target="_blank">v1 of the planner</a> up for anyone who's interested in accessing it, though I won't be updating it any further so it will only ever be up to date with Stardew Valley v1.07.
 
 ---
 
